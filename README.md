@@ -1,7 +1,7 @@
 Hi there, I'm Ara! 👋 
 I'm an Informatics student at Universitas Pelita Harapan, currently diving deep into the world of Go (Golang). 🚀
 🎓 Education
-Universitas Pelita Harapan* Bachelor of Informatics (Computer Science) | 2025 — 2028 (Expected)
+Universitas Pelita Harapan Bachelor of Informatics (Computer Science) | 2025 — 2028 (Expected)
 🛠️ Tech Stack & Skills
 Language: Go (Golang) - Learning in progress! 🐹
 Tools: Git, GitHub, VS Code.
